@@ -1,6 +1,5 @@
-package codeoutloud.valueobject;
+package codeoutloud.valueobject.after;
 
-import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

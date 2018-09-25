@@ -1,4 +1,4 @@
-package codeoutloud.valueobject;
+package codeoutloud.valueobject.before;
 
 /**
  * Created by rafal on 22.09.18.
@@ -16,7 +16,7 @@ public class Woman {
         }
     }
 
-    public void haveDinnerWith(Man man){
+    private void haveDinnerWith(Man man){
         //
     }
 }

@@ -1,4 +1,4 @@
-package codeoutloud.valueobject;
+package codeoutloud.valueobject.before;
 
 /**
  * Created by rafal on 22.09.18.
